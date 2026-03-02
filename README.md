@@ -1,2 +1,2 @@
 # amm-week1
-Working ot AMM
+Working ot AMM project
