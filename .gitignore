@@ -1,0 +1,11 @@
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.env
+.venv
+venv/
+# Data / outputs
+data/*.csv
+# OS clutter
+.DS_Store
